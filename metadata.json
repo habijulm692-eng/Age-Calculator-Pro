@@ -1,0 +1,5 @@
+{
+  "name": "Age Calculator Pro",
+  "description": "A modern age calculator app that calculates exact age, days until next birthday, and more.",
+  "requestFramePermissions": []
+}
